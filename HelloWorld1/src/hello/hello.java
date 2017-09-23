@@ -7,6 +7,7 @@ public class hello {
 		
 		System.out.println("Hello Narendar ! I think you forgot everything");
 		System.out.println("New line");
+		System.out.println("New line1");
 
 	}
 
